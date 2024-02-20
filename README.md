@@ -1,6 +1,6 @@
 # Resto Project
 
-Rresto is a Laravel project designed to [implement a reservations system for a simple restaurant].
+Resto is a Laravel project designed to [implement a reservations system for a simple restaurant].
 
 ## Requirements
 
