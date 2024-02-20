@@ -5,7 +5,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
-				<h1> RESTO</h1>
+				<h1>RESTO</h1>
 				<h2>CLEAN &amp; SIMPLE DESIGN</h2>
 				<a href="#gallery" class="smoothScroll btn btn-default">LEARN MORE</a>
 			</div>
