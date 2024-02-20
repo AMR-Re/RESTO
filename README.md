@@ -1,5 +1,5 @@
 # Resto Project
-![alt text][def]
+![alt WELCOME](welcome.png)
 Resto is a Laravel project designed to [implement a reservations system for a simple restaurant].
 
 ## Requirements
