@@ -1,5 +1,5 @@
 # Resto Project
-
+![Screenshot 2024-02-20 at 15-58-12 Laravel (1)](https://github.com/AMR-Re/RESTO/assets/74749937/34b8d701-b109-479e-91a7-469c1e59220e)
 Rresto is a Laravel project designed to [implement a reservations system for a simple restaurant].
 
 ## Requirements
