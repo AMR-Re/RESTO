@@ -1,6 +1,6 @@
 # Resto Project
-![alt text](welcome.png)
-Rresto is a Laravel project designed to [implement a reservations system for a simple restaurant].
+![alt text][def]
+Resto is a Laravel project designed to [implement a reservations system for a simple restaurant].
 
 ## Requirements
 
@@ -11,7 +11,7 @@ Rresto is a Laravel project designed to [implement a reservations system for a s
 
 ## Installation
 
-Follow these steps to set up the Aresto project:
+Follow these steps to set up the Resto project:
 
 1. Clone the repository: `git clone [repository-url]`
 2. Install dependencies: `composer install`
@@ -27,3 +27,6 @@ To run the Aresto project locally, use the following command:
 npm install
 npm run dev
 php artisan serve
+
+
+[def]: welcome.png
