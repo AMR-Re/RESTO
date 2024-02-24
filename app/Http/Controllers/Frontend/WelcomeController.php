@@ -12,7 +12,7 @@ class WelcomeController extends Controller
     public function index()
     {
        // $specials = Category::where('name', 'specials')->first();
-        $specials = Menu::all();
+        $specials = Menu::get();
 
         return view('zendo-welcome', compact('specials'));
     }
