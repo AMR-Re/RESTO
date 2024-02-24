@@ -159,7 +159,7 @@ return [
         /*
          * Package Service Providers...
          */
-        NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider::class,
+    
         /*
          * Application Service Providers...
          */
