@@ -21,7 +21,7 @@ Follow these steps to set up the Resto project:
 
 ## Usage
 
-To run the Aresto project locally, use the following command:
+To run the resto project locally, use the following command:
 
 ```bash
 npm install
